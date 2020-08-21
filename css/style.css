@@ -20,6 +20,10 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Poppins', sans-serif;
 }
 
+.pink-btn{
+    color: #fff;
+}
+
 p{
     font-size: 14px;
 }
@@ -84,7 +88,7 @@ button{
     border: 0;
     background-color: white;
     border-radius: 20px;
-    padding: .5rem;
+    padding: .5rem 1rem;
 }
 .logo-btn > a{
     padding: 1rem;
