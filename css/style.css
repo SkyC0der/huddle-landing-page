@@ -208,7 +208,7 @@ color: #fff;
 
 
 @media only screen and (min-width: 769px) {
-    main,#footer{
+    main,#footer-sect{
         margin: 0 3rem;
     }
     #hero{
@@ -256,7 +256,7 @@ color: #fff;
         text-align: center;
     }
     
-    #footer{
+    #footer-sect{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         place-items: center;
